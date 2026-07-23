@@ -7,6 +7,7 @@ A small collection of beginner-friendly Python demos covering core concepts.
 - `calcscript.py` — simple calculator logic and user input
 - `numbergame.py` — number guessing game with control flow
 - `prac.py` — practice exercises for Python basics
+- `gradeTracer.py` — student grade tracker demo showing lists, tuples, sets, and dictionaries
 - `functionLibrary.py` — function demo library showing:
   - docstrings
   - parameters and arguments
@@ -28,5 +29,11 @@ From the project folder, run:
 python functionLibrary.py
 ```
 
-Replace `functionLibrary.py` with another script name to try other examples.
+Or run the new grade tracker demo:
+
+```bash
+python gradeTracer.py
+```
+
+Replace the script name with any other file to try additional examples.
 
