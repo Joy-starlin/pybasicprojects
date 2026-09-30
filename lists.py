@@ -4,10 +4,13 @@
 colors = ["red", "green", "blue", "yellow"]
 print(colors)
 
-#adding elements
+#modifying elements
 colors[0] = "orange"  # changing the first element
 print(colors)
 
+len(colors)  # getting the length of the list
+
+#adding elements
 colors.insert(1, "red")  # inserting an element at index 1
 print(colors)
 

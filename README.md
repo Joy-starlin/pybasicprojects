@@ -6,7 +6,6 @@ A small collection of beginner-friendly Python demos covering core concepts.
 
 - `calcscript.py` — simple calculator logic and user input
 - `numbergame.py` — number guessing game with control flow
-- `prac.py` — practice exercises for Python basics
 - `gradeTracer.py` — student grade tracker demo showing lists, tuples, sets, and dictionaries
 - `functionLibrary.py` — function demo library showing:
   - docstrings
@@ -16,6 +15,7 @@ A small collection of beginner-friendly Python demos covering core concepts.
   - scope and local variables
   - recursion
   - `*args` and `**kwargs`
+  -`Data structures`
 
 ## Purpose
 
